@@ -6,4 +6,5 @@ PT企画の斎藤です。
     msg = tmp.format(recv, bill)
     print(msg)
 
-#create_mail('山本', 40000)
+def add_charge(bill):
+    return int(bill * 1.07)
