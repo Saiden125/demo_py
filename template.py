@@ -6,4 +6,4 @@ PT企画の斎藤です。
     msg = tmp.format(recv, bill)
     print(msg)
 
-create_mail('山本', 40000)
+#create_mail('山本', 40000)
